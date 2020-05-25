@@ -1,0 +1,2 @@
+# MiningGame
+Java program MiningGame
